@@ -11,7 +11,7 @@ const studentRoutes = require("./routes/studentRoutes")
 
 app.use(express.json());
 const cors = require("cors");
-app.use(cors({ origin: "http://localhost:5173", credentials: true }));
+app.use(cors({ origin: "https://student-management-frontend-2ec2.onrender.com", credentials: true }));
 
 app.use("/students", studentRoutes);
 
