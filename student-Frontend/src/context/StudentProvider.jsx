@@ -1,7 +1,7 @@
 import {useState, useEffect } from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:8080/students";
+const API_URL = "https://student-management-backend-0u0b.onrender.com/students";
 
 import { StudentContext } from "./StudentContext";
 
