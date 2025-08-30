@@ -26,10 +26,10 @@ MONGODB_URI=your_mongo_uri
 PORT=5000
 
 ### Run app
-#Backend
+Backend
 cd Backend && npm run dev
 
-#Frontend
+Frontend
 cd student-Frontend && npm run dev
 
 
