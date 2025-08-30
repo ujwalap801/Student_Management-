@@ -1,10 +1,10 @@
-# 🎓 Student Management
+#  Student Management
 
 A full-stack MERN app to manage students with **Clerk Auth (Google Sign-In)** + **MongoDB backend**.
 
 ---
 
-## ⚡ Setup Instructions
+##  Setup Instructions
 
 ### 1 Clone the Repository
 
